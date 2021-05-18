@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hcyandroid.bkdxmoban.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hcyandroid.bkdxmoban.MyBundle
 
 class MyApplicationService {
 
